@@ -1,0 +1,11 @@
+{
+    "slack": {
+        "incoming_hook_url": "https://hooks.slack.com/services/aaa/bbb/ccc"
+    },
+    "poll_interval": 30,
+    "rcon": {
+        "server": "127.0.0.1",
+        "port": 25575,
+        "password": "Hunter2"
+    }
+}
