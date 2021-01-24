@@ -151,4 +151,3 @@ if __name__ == '__main__':
     with open(config_file, 'rt') as conff:
         config = Config(json.loads(conff.read().strip()))
     main(config)
-
